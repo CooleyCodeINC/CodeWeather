@@ -17,7 +17,7 @@ namespace CodeWeather.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
-            AppCenter.Start("cd68a4b0-a978-4d81-82c7-50644670bbd0",
+            AppCenter.Start("",
                    typeof(Analytics), typeof(Crashes));
 
 
